@@ -1,3 +1,4 @@
+![image alt](https://github.com/nikhil-ai-insights/multilingual-ai-receptionist/blob/2c695d7e0b7b4baaa8a749ad77b555567f8bc50c/asset.png)
 # 🚀 Multilingual AI Receptionist
 
 > An AI-powered receptionist system that automates customer interactions, appointment scheduling, and communication — just like a real human receptionist, but smarter, faster, and available 24/7.
